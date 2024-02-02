@@ -1,6 +1,8 @@
 # The Perfect Color
 
-Looking for the perfect color to paint your accent wall and don't want the hassle of driving to the hardware store to pick up color swatches? Look no further! Introducing the perfect color picker. Just click the options available. -Disclaimer- Limited colors available and picture used is for demo purposes only. It's recommended to swatch match to avoid regret.
+Looking for the perfect color to paint your accent wall and don't want the hassle of driving to the hardware store to pick up color swatches? Look no further! Introducing the perfect color picker. Just click the options available. 
+
+-Disclaimer- Limited colors available and picture used is for demo purposes only. It's recommended to swatch match to avoid regret.
 
 ## Table of contents
 
