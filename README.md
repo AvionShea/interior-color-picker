@@ -2,7 +2,7 @@
 
 Looking for the perfect color to paint your accent wall and don't want the hassle of driving to the hardware store to pick up color swatches? Look no further! Introducing the perfect color picker. Just click the options available. 
 
--Disclaimer- Limited colors available and picture used is for demo purposes only. It's recommended to swatch match to avoid regret.
+-Disclaimer- Limited colors available and the picture used is for demo purposes only. It's recommended to swatch matches to avoid regret.
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ Looking for the perfect color to paint your accent wall and don't want the hassl
 
 **How to use**
 
-Open with IDE of choice, right click on HTML and open in preferred browser. Click in available color squares and enjoy your next interior wall color.
+Open with the IDE of choice, right-click on HTML, and open in your preferred browser. Click on available color squares and enjoy your next interior wall color.
 
 
 ## Links
