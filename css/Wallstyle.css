@@ -4,41 +4,41 @@
 
 /* Box Model Hack */
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /******************************************
   /* LAYOUT
   /*******************************************/
 body {
-    background: rgb(88, 88, 88);
+  background: rgb(88, 88, 88);
 }
 
 h1,
 h2,
 #reset {
-    text-align: center;
+  text-align: center;
 }
 
 img {
-    display: block;
-    height: 600px;
-    margin: 0 auto;
-    background: rgba(255, 255, 255, 1);
+  display: block;
+  height: 600px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 1);
 }
 
 ul {
-    width: 100px;
-    height: 395px;
-    border: 3px solid black;
-    margin: 0 auto;
-    list-style: none;
-    padding: 0;
+  width: 100px;
+  height: 460px;
+  border: 3px solid black;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
 }
 
 li {
-    width: 94px;
-    height: 65px;
+  width: 94px;
+  height: 65px;
 }
 
 /******************************************
@@ -46,25 +46,28 @@ li {
   /*******************************************/
 
 #heliotrope {
-    background: rgba(165, 124, 142, 1);
+  background: rgba(165, 124, 142, 1);
 }
 
 #solstice {
-    background: rgba(90, 45, 68, 1);
+  background: rgba(90, 45, 68, 1);
 }
 
 #spellbound {
-    background: rgba(6, 33, 52, 1);
+  background: rgba(6, 33, 52, 1);
 }
 
 #pineGrove {
-    background: rgba(15, 50, 44, 1);
+  background: rgba(15, 50, 44, 1);
 }
 
 #jacaranda {
-    background: rgba(120, 101, 123, 1);
+  background: rgba(120, 101, 123, 1);
+}
+#grape {
+  background: rgba(13, 9, 54, 1);
 }
 
 #reset {
-    background: rgba(255, 255, 255, 1)
+  background: rgba(255, 255, 255, 1);
 }
